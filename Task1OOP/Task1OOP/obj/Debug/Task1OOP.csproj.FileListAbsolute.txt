@@ -1,0 +1,10 @@
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\bin\Debug\Task1OOP.exe.config
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\bin\Debug\Task1OOP.exe
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\bin\Debug\Task1OOP.pdb
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.csproj.AssemblyReference.cache
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.Form1.resources
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.Properties.Resources.resources
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.csproj.GenerateResource.cache
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.csproj.CoreCompileInputs.cache
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.exe
+C:\Users\genom\source\repos\Task1OOP\Task1OOP\obj\Debug\Task1OOP.pdb

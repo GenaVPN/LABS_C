@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\genom\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(9,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\genom\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(20,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\genom\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(30,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\genom\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(71,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\genom\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
